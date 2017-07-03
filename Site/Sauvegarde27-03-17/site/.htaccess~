@@ -1,0 +1,4 @@
+AuthName "Password Protected Directory"
+AuthType Basic
+AuthUserFile .htpasswd
+require valid-user
